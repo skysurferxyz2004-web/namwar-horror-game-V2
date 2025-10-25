@@ -97,8 +97,8 @@ for i in range(5):
 slow_print(" VERIFIED", 0.02)
 
 slow_print(f"\n╔════════════════════════════════════════════════════════════════════════════╗", 0.01)
-slow_print(f"║ WELCOME, AGENT {agent_name:<30} // ACCESS LEVEL: ALPHA-13        ║", 0.02)
-slow_print(f"║ SESSION INITIATED: {time.strftime('%H:%M:%S')} // AUTO-LOGOUT: 60 MINUTES                 ║", 0.02)
+slow_print(f"║ WELCOME, AGENT {agent_name:<30} // ACCESS LEVEL: ALPHA-13                 ║", 0.02)
+slow_print(f"║ SESSION INITIATED: {time.strftime('%H:%M:%S')} // AUTO-LOGOUT: 60 MINUTES ║", 0.02)
 slow_print(f"║ SECURITY NOTICE: ALL ACTIONS LOGGED // PSYCH EVAL REQUIRED POST-SESSION   ║", 0.02)
 slow_print(f"╚════════════════════════════════════════════════════════════════════════════╝", 0.01)
 
@@ -261,7 +261,7 @@ slow_print("\nRecording ends abruptly. Static fills screen.\n")
 slow_print(redact("HOSPITAL RECORD: PVT MARTINEZ – SEVERE BURNS, HALLUCINATIONS, LOSS OF SPEECH."), 0.03)
 slow_print(redact("FOLLOW-UP: INCIDENT AT FIELD HOSPITAL. UNKNOWN ASSAILANTS. RECORD TERMINATED."), 0.03)
 
-# (8) Psychological reconstruction — hallucination sequence, long and intense
+# --- Psychological Reconstruction --- 
 slow_print("\n[PSYCHOLOGICAL RECONSTRUCTION — SELECT FRAGMENTS]", 0.02)
 slow_print("The following are stitched from Martinez's utterances and clinician notes. They are unedited.\n", 0.02)
 
