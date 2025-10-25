@@ -4,6 +4,17 @@ A CIA dossier-style interactive horror game set during the Vietnam War, featurin
 
 ## Description
 
+
+This is written by myself and the ones downbelow is written by Copilot
+
+This text game in inspired by the terminal used by U.S Govenment in 1980s, Cold War.   I am trying to simulate it with Code
+and I hope this can be a MULTIMEDIA ENTERTAINMENT GAME with multiple playing ways    
+For example Chapter 2 is powered by Unreal and Chapter 3 is a Interactive VR Movie
+I hope it will come true and it might be a part of my FYP
+
+
+
+
 **V2 Enhanced Edition** - This is the definitive version of the Nam War Horror Game with complete psychological horror features.
 
 This text-based psychological horror game is inspired by the CIA terminal systems used during the 1980s Cold War era. The game simulates classified government archival systems with authentic period-appropriate interfaces and documentation styles.
